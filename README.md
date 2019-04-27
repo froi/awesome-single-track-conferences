@@ -1,4 +1,7 @@
 # Awesome Single Track Conferences
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 An awesome list of single track conferences.
 
 ## How to contibute
