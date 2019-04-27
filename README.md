@@ -1,4 +1,4 @@
-# awesome-single-track-conferences
+# Awesome Single Track Conferences
 An awesome list of single track conferences.
 
 ## How to contibute
