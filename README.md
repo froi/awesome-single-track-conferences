@@ -10,6 +10,6 @@ See a typo or incorrect information? [Submitt an Issue](https://github.com/froi/
 |    Name    |           URL          | Topic(s) | Social Account | contact email (optional) |
 | ---------- | ---------------------- | -------- | --------------- | ------------------------ |
 | PyCascades | https://pycascades.com | Python | [Twitter: @pycascades](https://twitter.com/pycascades) | |
-| North Bay Python | https://pycascades.com | Python | [Twitter: @northbaypython](https://twitter.com/northbaypython/) | |
+| North Bay Python | https://northbaypython.org | Python | [Twitter: @northbaypython](https://twitter.com/northbaypython/) | |
 | Write the Docs | https://www.writethedocs.org/conf/ | Documention and infromation delivery | [Twitter: @writethedocs](https://twitter.com/writethedocs) | |
 | Nordic Design | https://nordic.design | Design | [Twitter: @nordicdesign](https://twitter.com/nordicdesign) | |
